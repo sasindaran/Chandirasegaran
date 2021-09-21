@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandirasegaran</h1>
 <h3 align="center">A Student from Pondicherry University</h3>
 
-
-
-- 👨🏻‍🎓 I’m currently Studying on [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-
 - 🌱 I’m currently learning **HTML, CSS, Python**
 
 - 👨‍💻 All of my projects are available at <Not Available 😎>
