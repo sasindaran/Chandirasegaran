@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Python**
 
-- 👨‍💻 All of my projects are available at <Not Available 😎>
+- 👨‍💻 All of my projects are available at github itself 😎.
 - 📫 Contact Me **chandirasegaransegar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
